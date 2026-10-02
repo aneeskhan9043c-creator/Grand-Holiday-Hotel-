@@ -1,0 +1,6 @@
+{
+  "name": "Grand Holiday Hotel - Fizagat Swat Valley",
+  "description": "Comfortable family hotel in Fizagat, Mingora, Swat Valley, Pakistan. Featuring clean river view rooms, 24/7 hot water, generator backup, and fresh Swati dining.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
